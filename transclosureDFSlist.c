@@ -1,7 +1,8 @@
 /*********************************************************
- * File        : list.c
- * Borce Gjorgjievski
- * Homework 9: Transitive Closure with Adjacency list representation
+ *
+ * (c) Bruce Gjorgjievski
+ * Transitive Closure of a Directional Graph using DFS (Adjacency List Representation)
+ *
  *********************************************************/
 
 #include <stdio.h>
